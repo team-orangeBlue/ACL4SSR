@@ -487,10 +487,8 @@ DOMAIN,marketing-aibox.v.mitvos.com
 DOMAIN,user-aibox.v.mitvos.com
 DOMAIN,dispatch.mgslb.com
 DOMAIN,h5.tv.mi.com
-DOMAIN,userprofile.mina.xiaoaisound.com
+DOMAIN-SUFFIX,xiaoaisound.com
 DOMAIN,log.miwifi.com
-DOMAIN,hd.mina.xiaoaisound.com
-DOMAIN,voip.mina.xiaoaisound.com
 DOMAIN,mimc.chat.xiaomi.net
 DOMAIN,api.mijia.tech
 DOMAIN,mina.mi.com
