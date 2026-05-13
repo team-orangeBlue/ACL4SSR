@@ -1,0 +1,8 @@
+DST-PORT,22222
+DOMAIN-REGEX,.*arzn.*srv\.nintendo\.net
+DOMAIN,ifconfig.me
+DOMAIN-SUFFIX,ipify.org
+DOMAIN,checkip.amazonaws.com
+DOMAIN-SUFFIX,2ip.ru
+DOMAIN-SUFFIX,2ip.io
+DOMAIN-SUFFIX,oneme.ru
