@@ -469,3 +469,6 @@ DOMAIN-SUFFIX,viu.tv
 
 # YouTubeMusic
 #DOMAIN,music.youtube.com
+
+# Discord VC
+DST-PORT,50000-50100
