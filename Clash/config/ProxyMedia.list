@@ -472,3 +472,25 @@ DOMAIN-SUFFIX,viu.tv
 
 # Discord VC
 DST-PORT,50000-50100
+
+# XiaoaiTongxue
+DOMAIN,resolver.msg.xiaomi.net
+DOMAIN,ipinfo.io
+DOMAIN,connect.rom.miui.com
+DOMAIN,broker.miwifi.com
+DOMAIN,tracker.ai.xiaomi.com
+DOMAIN,api.miwifi.com
+DOMAIN,tracker.ai.xiaomi.com.mshome.net
+DOMAIN,api2.mina.mi.com
+DOMAIN,userprofile.mina.mi.com
+DOMAIN,marketing-aibox.v.mitvos.com
+DOMAIN,user-aibox.v.mitvos.com
+DOMAIN,dispatch.mgslb.com
+DOMAIN,h5.tv.mi.com
+DOMAIN,userprofile.mina.xiaoaisound.com
+DOMAIN,log.miwifi.com
+DOMAIN,hd.mina.xiaoaisound.com
+DOMAIN,voip.mina.xiaoaisound.com
+DOMAIN,mimc.chat.xiaomi.net
+DOMAIN,api.mijia.tech
+DOMAIN,mina.mi.com
